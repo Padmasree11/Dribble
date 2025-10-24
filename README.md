@@ -121,7 +121,11 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
+![alt text](<padmasree/myapp/static/WhatsApp Image 2025-10-23 at 20.39.56_5cca90f6.jpg>)
 
+![alt text](<padmasree/myapp/static/WhatsApp Image 2025-10-23 at 20.39.09_a9967f18.jpg>)
+
+![alt text](<WhatsApp Image 2025-10-23 at 20.39.35_c3b52fe1.jpg>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
